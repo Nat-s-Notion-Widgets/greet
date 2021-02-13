@@ -4,11 +4,10 @@
     <style>
 #lbl {
     font-family: monospace;
-    font-size: x-large;
+    font-size: large;
     color: #637352F;
     padding: 0px;
     text-align: center;
-    vertical-align:middle;
     line-height: 1;
     height:100%
 
@@ -52,6 +51,6 @@ body{
         greet = 'Good Evening  ';
 
     document.getElementById('lbl').innerHTML =
-        greet+= "Natasha" + `<div id="date"> It's ${date}</div>`;
+        greet+=`<div id="date"> It's ${date}</div>`;
 </script> 
 </html>
