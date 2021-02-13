@@ -9,7 +9,7 @@
     padding: 0px;
     border: 1px solid #ececec;
     text-align: center;
-    line-height: 1;
+    line-height: 0;
     height:85%
 
 
