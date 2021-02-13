@@ -4,7 +4,7 @@
     <style>
 #lbl {
     font-family: monospace;
-    font-size: large;
+    font-size: x-large;
     color: #637352F;
     padding: 0px;
     text-align: center;
