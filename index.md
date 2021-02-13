@@ -9,8 +9,8 @@
     padding: 0px;
     border: 1px solid #ececec;
     text-align: center;
-    line-height: 1.5;
-    height:0%
+    line-height: 1;
+    height: 0%
 
 
 }
