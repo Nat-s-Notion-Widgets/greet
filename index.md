@@ -9,7 +9,7 @@
     padding: 0px;
     text-align: center;
     line-height: 1;
-    height:100%
+    height:0%
 
 
 }
@@ -51,6 +51,6 @@ body{
         greet = 'Good Evening  ';
 
     document.getElementById('lbl').innerHTML =
-        greet+= "Your name here " + `<div id="date"> It's ${date}</div>`;
+        greet+= "Natasha" + `<div id="date"> It's ${date}</div>`;
 </script> 
 </html>
