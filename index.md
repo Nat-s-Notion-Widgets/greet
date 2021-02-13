@@ -1,4 +1,3 @@
-<html> 
 <head>
     <title>Greeting Message</title> 
     <style>
@@ -53,4 +52,3 @@ body{
     document.getElementById('lbl').innerHTML =
         greet+=`<div id="date"> It's ${date}</div>`;
 </script> 
-</html>
