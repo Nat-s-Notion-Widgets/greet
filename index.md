@@ -39,7 +39,7 @@ body{
     var today = new Date();
     var hrs = today.getHours();
     var dayOfWeek = weekday[today.getDay()];
-    var date = dayOfWeek+" " + today.getUTCDate() + "/" +(today.getUTCMonth()+1) +'/'+today.getUTCFullYear()  ;
+    var date = dayOfWeek+" " + today.getUTCDate() + "/" +(today.getUTCMonth()+1) +'/'+today.getUTCFullYear())%100;
 
     var greet;
 
