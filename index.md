@@ -40,6 +40,7 @@ body{
     var hrs = today.getHours();
     var dayOfWeek = weekday[today.getDay()];
     var date = dayOfWeek+" " + today.getUTCDate() + "/" +(today.getUTCMonth()+1) +'/'+today.getUTCFullYear();
+    alert( year.toString().substring(2) )
 
     var greet;
 
