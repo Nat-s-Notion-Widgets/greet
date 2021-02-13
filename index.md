@@ -7,7 +7,6 @@
     font-size: x-large;
     color: #637352F;
     padding: 5px;
-    border: 1px solid #ececec;
     text-align: center;
     line-height: 1.5;
     height:85%
