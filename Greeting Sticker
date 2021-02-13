@@ -5,9 +5,9 @@
 #lbl {
     font-family: monospace;
     font-size: xx-large;
-    color: #626262;
+    color: #37352F;
     padding: 5px;
-    border: 1px solid #ececec;
+    border: 1px solid #F4DFEB;
     text-align: center;
     line-height: 1.5;
     height:85%
