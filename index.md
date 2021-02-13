@@ -8,7 +8,7 @@
     color: #637352F;
     padding: 0px;
     text-align: center;
-    vertical-align:top;
+    vertical-align:middle;
     line-height: 1;
     height:100%
 
