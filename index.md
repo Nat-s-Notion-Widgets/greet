@@ -6,11 +6,11 @@
     font-family: monospace;
     font-size: xx-large;
     color: #37352F;
-    padding: 1px;
+    padding: 5px;
     border: 1px solid #ececec;
     text-align: center;
-    line-height: 0.5;
-    height: 85%
+    line-height: 1.5;
+    height:85%
 
 
 }
