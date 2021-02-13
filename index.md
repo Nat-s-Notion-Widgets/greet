@@ -1,5 +1,3 @@
-##
-
 <html> 
 <head>
     <title>Greeting Message</title> 
