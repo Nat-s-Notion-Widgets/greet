@@ -6,7 +6,7 @@
     font-family: monospace;
     font-size: x-large;
     color: #637352F;
-    padding: 5px;
+    padding: 0px;
     text-align: center;
     line-height: 1;
     height:85%
