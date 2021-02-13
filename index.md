@@ -9,7 +9,7 @@
     color: #637352F;
     padding: 0px;
     text-align: center;
-    line-height: 1;
+    line-height: 1.25;
     height:100%
 
 
