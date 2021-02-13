@@ -16,6 +16,7 @@
 }
 #date{
     font-size:large;
+    font=weight: normal;
 }
 body{
     background-color: #DDEDEA;
