@@ -5,6 +5,7 @@
 #lbl {
     font-family: monospace;
     font-size: x-large;
+    font-weight: bold;
     color: #637352F;
     padding: 0px;
     text-align: center;
