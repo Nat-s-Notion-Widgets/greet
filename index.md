@@ -6,10 +6,10 @@
     font-family: monospace;
     font-size: xx-large;
     color: #37352F;
-    padding: 0px;
+    padding: 1px;
     border: 1px solid #ececec;
     text-align: center;
-    line-height: 1.5;
+    line-height: 0.5;
     height: 85%
 
 
