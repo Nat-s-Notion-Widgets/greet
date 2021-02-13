@@ -5,7 +5,6 @@
 #lbl {
     font-family: monospace;
     font-size: x-large;
-    font-weight: bold;
     color: #637352F;
     padding: 0px;
     text-align: center;
@@ -16,7 +15,6 @@
 }
 #date{
     font-size:large;
-    font=weight: normal;
 }
 body{
     background-color: #DDEDEA;
